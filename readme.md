@@ -21,8 +21,6 @@ A World of Warcraft Forever addon that automatically hands in the prerequisite q
 | Dustwallow Marsh | Lieutenant Paval Reethe | Questioning Reethe |
 | Feralas | The Giant Guardian | Wandering Shay |
 
-Optional (commented out in the file): Scarlet Subterfuge / In Dreams in Western Plaguelands.
-
 ## Installation
 
 1. Extract the folder named `EscortAutoQuest` to your AddOns directory:
