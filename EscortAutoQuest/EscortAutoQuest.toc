@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: Escort Auto Quest
+## Notes: Automatically turns in configured escort-quest prerequisites, then declines the escort follow-up.
+## Author: Ridai
+## Version: 1.0.0
+
+EscortAutoQuest.lua
